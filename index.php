@@ -1,6 +1,6 @@
 <?php
 
-require '../vendor/autoload.php';
+require '/vendor/autoload.php';
 session_start();
 
 $app = new \atk4\ui\App('Гороскоп');
